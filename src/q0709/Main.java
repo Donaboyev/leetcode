@@ -1,7 +1,5 @@
 package q0709;
 
-import java.util.Stack;
-
 public class Main {
     public static void main(String[] args) {
         final Solution sn = new Solution();
