@@ -1,7 +1,5 @@
 package q0009;
 
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
         final Solution sn = new Solution();
