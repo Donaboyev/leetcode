@@ -17,15 +17,14 @@ private class Solution {
         var seq = 1
         while (i < s.length) {
             val c = s[i]
-            when {
-                c == current -> seq++
-                c == '0' -> {
+            when (c) {
+                current -> seq++
+                '0' -> {
                     max = max(max, min(seq, lastSeq))
                     current = '0'
                     lastSeq = seq
                     seq = 1
                 }
-
                 else -> {
                     current = '1'
                     lastSeq = seq
