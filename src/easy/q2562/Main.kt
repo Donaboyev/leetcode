@@ -1,4 +1,4 @@
-package medium.q2562
+package easy.q2562
 
 import kotlin.math.log10
 import kotlin.math.pow
