@@ -1,8 +1,5 @@
 package easy.q2652
 
-import kotlin.math.log10
-import kotlin.math.pow
-
 fun main() {
     val sl = Solution()
     println(sl.sumOfMultiples(7))
