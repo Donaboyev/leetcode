@@ -1,8 +1,5 @@
 package easy.q1232
 
-import kotlin.math.abs
-import kotlin.math.max
-
 fun main() {
     val sl = Solution()
     println(
