@@ -1,4 +1,4 @@
-package q0242;
+package java.q0242;
 
 public class Main {
     public static void main(String[] args) {
