@@ -1,7 +1,5 @@
 package easy.q1051
 
-import java.util.*
-
 fun main() {
     val sl = Solution()
     println(sl.heightChecker(intArrayOf(1, 1, 4, 2, 1, 3)))
